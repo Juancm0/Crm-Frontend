@@ -32,4 +32,4 @@ Los datos se guardan solo en tu navegador local. Si limpias el caché o abres en
 ---
 
 ## 🙋 Autor
-Desarrollado por @TuUsuario como parte de su portafolio profesional.
+Desarrollado por @Juancm0 como parte de su portafolio profesional.
